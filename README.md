@@ -24,5 +24,5 @@ docker run --name kafka -p 9092:9092
 - KAFKA_OFFSETS_TOPIC_REPLICATION_FACTOR : topic partitionのコピー数である。値が1の場合 leader brokerにだけ partitionが記録される. この値は broker数より多ければいけない。
 
 # 参考
-https://miiingo.tistory.com/196
+https://miiingo.tistory.com/196 \
 https://blog.naver.com/PostView.naver?blogId=sqlpro&logNo=222457487274&parentCategoryNo=7&categoryNo=&viewDate=&isShowPopularPosts=false&from=postView
