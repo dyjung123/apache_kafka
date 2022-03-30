@@ -51,3 +51,5 @@ $ bin/kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic mytopi
 > Producerで入力してメッセージが表示される
 ```
 
+# 参考
+https://blog.naver.com/PostView.naver?blogId=sqlpro&logNo=222457487274&parentCategoryNo=7&categoryNo=&viewDate=&isShowPopularPosts=false&from=postView
