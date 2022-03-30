@@ -52,4 +52,5 @@ $ bin/kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic mytopi
 ```
 
 # 参考
-https://blog.naver.com/PostView.naver?blogId=sqlpro&logNo=222457487274&parentCategoryNo=7&categoryNo=&viewDate=&isShowPopularPosts=false&from=postView
+[[韓国語]docker-composeを用いてkafka clusterを構成する](https://blog.naver.com/PostView.naver?blogId=sqlpro&logNo=222457487274&parentCategoryNo=7&categoryNo=&viewDate=&isShowPopularPosts=false&from=postView) \
+[[韓国語]Dockerを用いた zookeeper, kafka実行](https://miiingo.tistory.com/196?category=702821)
