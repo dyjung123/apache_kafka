@@ -6,7 +6,7 @@
 
 # 事前作業
 ```shell
-docker-compose -f docker-compose.yml up -d 
+docker-compose -f single-kafka-broker-docker-compose.yml up -d 
 ```
 
 下記のリンクから ```kafka_2.13-2.7.2.tgz```をダウンロード
